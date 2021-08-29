@@ -56,6 +56,6 @@ Layer0
 	g_vTexCoordScrollSpeed "[0.150 -0.150]"
 
 	//---- Translucent ----
-	g_flOpacityScale "0.217"
+	g_flOpacityScale "0.078"
 	TextureTranslucency "materials/default/default_trans.tga"
 }
