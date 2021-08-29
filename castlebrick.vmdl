@@ -261,7 +261,7 @@
 						game_keys = 
 						{
 							base = ""
-							allowstatic = false
+							allowstatic = true
 							bakelighting = true
 							spawn_motion_disabled = false
 							health = 150.0
@@ -333,6 +333,9 @@
 						recenter_on_parent_bone = false
 						offset_origin = [ 0.0, 0.0, 0.0 ]
 						offset_angles = [ 0.0, 0.0, 0.0 ]
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
 						filename = "castlebrick.fbx_Scene.fbx"
 						import_scale = 0.2
 						maxMeshVertices = 0
